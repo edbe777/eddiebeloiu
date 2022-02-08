@@ -1,5 +1,5 @@
 ---
-title: "Linkedin Posts Analysis Project"
+title: "Cool Linkedin Posts Analysis Personal Project, TESTED"
 mathjax: false
 layout: post
 categories: 
