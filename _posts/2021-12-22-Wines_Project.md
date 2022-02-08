@@ -1,5 +1,5 @@
 ---
-title: "Wines Of the World Project $$$"
+title: "Wines Of the World Personal Project, with a Wine Predictor $$$"
 mathjax: false
 layout: post
 categories: 
