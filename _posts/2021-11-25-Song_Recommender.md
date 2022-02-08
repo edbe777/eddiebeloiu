@@ -1,5 +1,5 @@
 ---
-title: "Spotify Song Recommender Project"
+title: "Ironhack Spotify Song Recommender Project"
 mathjax: false
 layout: post
 categories: 
