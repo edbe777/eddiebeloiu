@@ -12,7 +12,7 @@ categories:
 
 Linkedin Posts Analysis Project Personal Project
 
-This is a simple program to show how many likes, comments, and views a LinkedIn profile has.
+This is a simple program to show how many likes, comments, and views a LinkedIn profile has. I used my perdonal LinkedIn profile for testing, and the results are accurate. This program can be used to improve the posts, and/or to see the data visually. 
 
 
 Steps:
