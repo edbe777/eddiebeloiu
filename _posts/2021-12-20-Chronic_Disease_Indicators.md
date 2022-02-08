@@ -1,5 +1,5 @@
 ---
-title: "Chronic Disease Indicators (CDI) Project"
+title: "Ironhack Chronic Disease Indicators (CDI) Final Project"
 mathjax: false
 layout: post
 categories: 
