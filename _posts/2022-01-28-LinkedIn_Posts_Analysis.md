@@ -17,7 +17,10 @@ This is a simple program to show how many likes, comments, and views a LinkedIn 
 
 Steps:
 
-1.Make sure you have the correct chrome driver for the program to run properly -download chrome driver [here](https://chromedriver.chromium.org/downloads){:target="_blank"} 
+1.Make sure you have the correct chrome driver for the program to run properly 
+
+-download chrome driver [here](https://chromedriver.chromium.org/downloads){:target="_blank"} 
+
 
 2.Run the program. 
 
