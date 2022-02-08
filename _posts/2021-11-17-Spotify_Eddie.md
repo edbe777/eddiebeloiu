@@ -1,5 +1,5 @@
 ---
-title: "Spotify Midterm Project"
+title: "Spotify Ironhack Midterm Project"
 mathjax: false
 layout: post
 categories: 
