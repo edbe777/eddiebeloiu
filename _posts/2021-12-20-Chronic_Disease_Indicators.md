@@ -31,3 +31,4 @@ The objective is to explore the CDI dataset and interpret the Heart Failure tren
 ![Total Cost](https://github.com/edbe777/Completed-Labs/blob/main/Week_8/Day_5/images/total%20cost%20of%20chronic%20diseases.JPG?raw=true)
 
 Go to the [GitHub Repository](https://github.com/edbe777/Completed-Labs/blob/main/Week_8/Day_5/final%20project.ipynb){:target="_blank"}
+Go to the [Kaggle Notebook](https://www.kaggle.com/ed777kaggle/cdi-data-analysis-and-ml-models){:target="_blank"}
