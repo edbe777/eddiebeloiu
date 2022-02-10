@@ -1,5 +1,5 @@
 ---
-title: "Ironhack Chronic Disease Indicators (CDI) Final Project"
+title: "Ironhack Chronic Disease Indicators (CDI) Final Project/also on Kaggle"
 mathjax: false
 layout: post
 categories: 
@@ -10,7 +10,7 @@ categories:
 
 ![CDI Indicators](https://github.com/edbe777/Completed-Labs/blob/main/Week_8/Day_5/images/cdi-logo.png?raw=true)
 
-Ironhack Bootcamp Final Project
+Ironhack Bootcamp Final Project/ also on Kaggle
 
 A comprehensive analysis of the Chronic Disease Indicators (CDI). Zoomed in on Heart Disease 2010-2017
 
