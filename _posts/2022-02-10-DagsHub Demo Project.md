@@ -4,7 +4,6 @@ layout: post
 categories: 
  -github
  -website
- -health
 ---
 
 ![Dag](https://github.com/edbe777/my-projects/blob/main/DagsHub_Machine_Learning_Demo_Project/dag.png?raw=true)
