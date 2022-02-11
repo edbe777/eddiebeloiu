@@ -12,9 +12,26 @@ categories:
 
 Ironhack Bootcamp Final Project/ also on Kaggle
 
+Credit for making this notebook goes to Daniel Wu and Pedro Moreno
+
+![Data Link](https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi){:target="_blank"}
+
+
 A comprehensive analysis of the Chronic Disease Indicators (CDI). Zoomed in on Heart Disease 2010-2017
 
 The objective is to explore the CDI dataset and interpret the Heart Failure trends via Machine Learning models to find the states with the most Heart Failure Deaths.
+
+Questions:
+
+What is the most common disease in the USA?
+
+What are the factors affecting the top disease?
+
+Does a disease respect borders? In other words, is a disease limited by state borders?
+
+How does a disease change over time?
+
+
  
 ![Heart Top States](https://github.com/edbe777/Completed-Labs/raw/main/Week_8/Day_5/images/heart%20top%20states.JPG?raw=true)
 
