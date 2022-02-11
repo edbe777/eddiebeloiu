@@ -14,7 +14,7 @@ categories:
 
 Credit for making this notebook goes to Daniel Wu and Pedro Moreno
 
-![Data Link](https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi){:target="_blank"}
+Go to the [CDI Data](https://catalog.data.gov/dataset/u-s-chronic-disease-indicators-cdi){:target="_blank"}
 
 
 A comprehensive analysis of the Chronic Disease Indicators (CDI). Zoomed in on Heart Disease 2010-2017
