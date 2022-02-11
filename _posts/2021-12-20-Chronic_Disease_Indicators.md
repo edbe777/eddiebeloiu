@@ -10,7 +10,7 @@ categories:
 
 ![CDI Indicators](https://github.com/edbe777/Completed-Labs/blob/main/Week_8/Day_5/images/cdi-logo.png?raw=true)
 
-Ironhack Bootcamp Final Project/ also on Kaggle
+# Ironhack Bootcamp Final Project/ also on Kaggle
 
 Credit for making this notebook goes to Daniel Wu and Pedro Moreno
 
@@ -21,7 +21,7 @@ A comprehensive analysis of the Chronic Disease Indicators (CDI). Zoomed in on H
 
 The objective is to explore the CDI dataset and interpret the Heart Failure trends via Machine Learning models to find the states with the most Heart Failure Deaths.
 
-Questions:
+# Questions:
 
 What is the most common disease in the USA?
 
