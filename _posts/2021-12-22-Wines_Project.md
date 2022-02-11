@@ -10,9 +10,15 @@ categories:
 
 ![Bottle](https://github.com/edbe777/my-projects/blob/main/Wines_Project/wine_mask.png?raw=true)
 
-Wine Recommender Personal Project
+# Wine Recommender Personal Project
+
+Credit for making this notebook goes to my classmate and friend, Mustafa Tekin.  
 
 Analyzed and Cleaned the Wine dataset, build Machine Learning models (sentiment analysis), build a wine predictor. 
+
+
+Also made a Tableau Presentation [Link](https://public.tableau.com/app/profile/eddie.beloiu/viz/WinesProject/WINES?publish=yes){:target="_blank"}
+
 
 ![Word Cloud](https://github.com/edbe777/my-projects/blob/main/Wines_Project/wine%20titles%20word%20cloud.png?raw=true)
 
