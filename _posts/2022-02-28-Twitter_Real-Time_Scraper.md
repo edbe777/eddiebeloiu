@@ -18,6 +18,8 @@ Steps:
 
 -run twitter_pipeline python program
 
+-For testing purposes, I tested the program with a keyword search of 'Ukraine' and got the most recent 100 tweets
+
 
 ![Twitter](https://github.com/edbe777/my-projects/blob/main/Twitter_Real_Time/twitter.jpg?raw=true)
 
