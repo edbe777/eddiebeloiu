@@ -35,3 +35,5 @@ comments:
 
 plugins:
  - jekyll-feed
+ 
+google_analytics: G-1XM1VEYH8Q
