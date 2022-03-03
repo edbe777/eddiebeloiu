@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-{% if site.google_tracking %} {% include google_analytics.html %} {% endif %} 
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
 <meta charset="{{ site.encoding }}">
@@ -31,6 +30,7 @@
 <header>
   <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
   {% include menu.html menu=pages %}
+  {% if site.google_tracking %} {% include google_analytics.html %} {% endif %} 
 </header>
 
 {{ content }}
