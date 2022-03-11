@@ -24,6 +24,8 @@ Scraped tweets from Microsoft user on Twitter. Analyzed the tweets and made seve
 
 ![percent](https://github.com/edbe777/my-projects/blob/main/Microsoft_Tweets/text_len%20percent.png?raw=true)
 
+![by_hour](https://github.com/edbe777/my-projects/blob/main/Microsoft_Tweets/Tweet%20count%20by%20hour.png?raw=true)
+
 ![text_len](https://github.com/edbe777/my-projects/blob/main/Microsoft_Tweets/text_len.png?raw=true)
 
 ![wordclouds](https://github.com/edbe777/my-projects/blob/main/Microsoft_Tweets/Wordclouds.png?raw=true)
@@ -40,8 +42,13 @@ Scraped tweets from Microsoft user on Twitter. Analyzed the tweets and made seve
 
 ![histo](https://github.com/edbe777/my-projects/blob/main/Microsoft_Tweets/text_len_histo.png?raw=true)
 
+![cleaned_text](https://github.com/edbe777/my-projects/blob/main/Microsoft_Tweets/Cleaned%20Text%20One%20Length.png?raw=true)
+
+![3sentiments](https://github.com/edbe777/my-projects/blob/main/Microsoft_Tweets/3sentiments_bar.png?raw=true)
+
 ![vader](https://github.com/edbe777/my-projects/blob/main/Microsoft_Tweets/vader_freq.png?raw=true)
 
 ![flair](https://github.com/edbe777/my-projects/blob/main/Microsoft_Tweets/flair_freq.png?raw=true)
+
 
 Go to the [GitHub Repository](https://github.com/edbe777/my-projects/blob/main/Microsoft_Tweets/python%20msft.ipynb){:target="_blank"}
