@@ -1,5 +1,5 @@
 ---
-title: "Twitter Microsoft Sentiment Analysis Project"
+title: "Twitter Microsoft Machine Leaning Sentiment Analysis Project including Mito Graphs"
 mathjax: false
 layout: post
 categories: 
