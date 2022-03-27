@@ -7,7 +7,6 @@ categories:
  -website
 ---
 
-![Spotify_Eddie](https://github.com/edbe777/Completed-Labs/blob/main/Week_5/correlation%20map%202.JPG?raw=true)
 
 Github Projects Timeline Video (NO Audio)
 
