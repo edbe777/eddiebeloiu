@@ -5,7 +5,8 @@ layout: post
 categories: 
  -github
  -website
- -health
+ -ship
+ -tracking
 ---
 
 ![Ship](https://github.com/edbe777/my-projects/blob/main/Ship_Tracker/ship.jpg?raw=true)
