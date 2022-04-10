@@ -1,5 +1,5 @@
 ---
-title: "Rattle Project"
+title: "RATTLE RStudio Credit Scoring Models Exploration Project"
 mathjax: false
 layout: post
 categories: 
