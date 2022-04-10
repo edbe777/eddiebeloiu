@@ -11,7 +11,7 @@ categories:
 
 ![r](https://github.com/edbe777/my-projects/blob/main/Rattle_Exploration/r.png?raw=true)
 
-# Credit Scoring Analysis and Machine Learning Ecploration Project
+# Credit Scoring Analysis and Machine Learning Exploration Project
 
 Exploration of R with Rattle (interactive GUI built on top of R) 
 
